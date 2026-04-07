@@ -31,7 +31,6 @@ ln -s /path/to/claude-skills/skills/* ~/.claude/skills/
 | lark-cli | 平台集成 | 飞书/Lark API 全功能 CLI |
 | notebooklm | 平台集成 | Google NotebookLM API |
 | yt-search | 平台集成 | YouTube 搜索 + 字幕下载（yt-dlp） |
-| gstack | 浏览器/QA | 无头浏览器 QA 测试 |
 | task-graph | 可视化 | 任务进度 DAG 依赖图 |
 
 ## Tools
